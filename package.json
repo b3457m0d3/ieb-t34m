@@ -1,0 +1,23 @@
+{
+  "name": "ieb-t34m",
+  "version": "0.0.1",
+  "description": "ieb-t34m work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3457m0d3/ieb-t34m.git"
+  },
+  "keywords": [
+    "ieb",
+    "interrobang"
+  ],
+  "author": "b3457m0d3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3457m0d3/ieb-t34m/issues"
+  },
+  "homepage": "https://github.com/b3457m0d3/ieb-t34m#readme"
+}
